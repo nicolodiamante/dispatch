@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/d9e12e73-bd58-4c4b-b2ec-6466f774f2d3" draggable="false" ondragstart="return false;" alt="Dispatch Title" title="Dispatch" /></a></p>
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/03e018d2-cbb7-4c0b-94b5-b851e8c332f4" draggable="false" ondragstart="return false;" alt="Dispatch Title" title="Dispatch" /></a></p>
 
 You might be surprised to learn that artificial intelligence (AI) influences your life more than you realise – from reading your emails to navigating driving directions to delivering music. Now, imagine taking this even further with “Wake Me Up” – an interactive shortcut powered by [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], two leading AI technologies for natural language processing and realistic speech recordings. "Wake Me Up" acts as your personal assistant, keeping you on schedule while providing you with a summaries of your daily tasks with a realistic vocal tone.
 <p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/578f86de-667c-49ad-a6ce-09ceb6c2abe3" draggable="false" ondragstart="return false;" alt="IMG show ChatGPT conbined with ElevenLabs" title="ChatGPT conbined with ElevenLabs" width="700px" /></a></p>
@@ -19,7 +19,7 @@ To get started, download [Apple Shortcuts app][apple-shortcuts-download] and the
 
 To use ChatGPT's services, you'll first need to obtain the API key. This can be done by generating a new secret key from your OpenAI account. To get started, you can obtain the key by following these steps. First, log in to your [OpenAI account][open-ai-account]. Next, look for the "Create new secret key" option and click on it.
 
-<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/SiriGPT/assets/48920263/b10ad2cb-92c0-4c76-a0a5-4b5902d40f30" draggable="false" ondragstart="return false;" alt="IMG show how to create new secret key" title="Create new secret key" width="750px" /></a></p>
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/4615b7fb-31ed-43a4-b002-76050fddca09" draggable="false" ondragstart="return false;" alt="IMG show how to create new secret key" title="Create new secret key" width="750px" /></a></p>
 
 Once you have the [API Key][open-ai-API], integrating ChatGPT's services is a breeze. It's important to note that once you copy the key and close the pop-up, you won't be able to view it again, so it's crucial to keep the key in a secure location.
 <br/><br/>
@@ -36,7 +36,7 @@ To start using the ElevenLabs API, you must register for an API key on their [we
 Once you've created an account and went to profile settings there you can obtained an API key and start using their text-to-speech service.
 <br/><br/><br/>
 
-<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/51741987-fb5b-4454-8ac3-52428f57812c" draggable="false" ondragstart="return false;" alt="IMG show an example of an ElevenLabs API Key" title="ElevenLabs API Key" width="570px" /></a></p><br/><br/>
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/05924927-9de1-498b-a839-1b58465fc89d" draggable="false" ondragstart="return false;" alt="IMG show an example of an ElevenLabs API Key" title="ElevenLabs API Key" width="570px" /></a></p><br/><br/>
 
 ## Setting Up
 
@@ -71,6 +71,15 @@ When you're ready to use the shortcut, simply activate Siri and say "Wake Me Up"
 
 <br/>
 
+## Dispatch Privacy
+
+Privacy is a user right, which is why Dispatch gives you the ability to choose which personal data to disclose during setup. Dispatch is a shortcut within the Apple ecosystem that already provides protection, including when third-party service providers are acting on behalf of Apple. However, OpenAI and ElevenLabs APIs are required for the shortcut to function. If you don't want to give out any information to third-party services, you won't be able to use Dispatch. However, if you consider using it, you should read the [OpenAI][openai-privacy]'s and [ElevenLabs][elevenlabs-privacy]' Privacy Policies first.
+<br/><br/><br/>
+
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/32081137-4761-43e9-a5f7-a101f65da1b9" draggable="false" ondragstart="return false;" alt="Shortcut Privacy" title="Shortcut Privacy" width="900px" /></a></p>
+
+<br/>
+
 ## Notes
 
 - Currently, to use GPT-4, you need to [join a waitlist][gpt-4-wailist]. Once you have joined it, you will receive a confirmation email. After that, you will have to wait for an invitation to use the GPT-4 API. If you qualify to use it, you will see the GPT-4 model option for testing in the playground backend. Otherwise, if you do not have the qualifications, you should choose to use the GPT-3.5-Turbo model instead.
@@ -102,7 +111,7 @@ When you're ready to use the shortcut, simply activate Siri and say "Wake Me Up"
 
 ### Contribution
 
-Thank you for considering using this shortcut. If you encounter any issues or bugs, please report them on the [issues page][issues]. Your feedback is valuable in helping to improve this shortcut.<br/><br/>
+Thank you for taking the time to consider using this shortcut. If you would like to contribute to improving Dispatch, your feedback would be appreciated. If you encounter any issues or bugs, please report them on the [issues page][issues].<br/><br/>
 
 <p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/113406768-5a164900-93ac-11eb-94a7-09377a52bf53.png" draggable="false" ondragstart="return false;" /></a></p>
 
@@ -119,6 +128,8 @@ Thank you for considering using this shortcut. If you encounter any issues or bu
 [dispatch-shortcut]: https://www.icloud.com/shortcuts/010e15b22aec4efba2a051a040574a80
 [gpt-4-wailist]: https://openai.com/waitlist/gpt-4-api
 [open-ai-prices]: https://openai.com/pricing
+[openai-privacy]: https://openai.com/policies/privacy-policy
+[elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
 [chaGPT]: https://openai.com/blog/chatgpt
 [examples]: https://platform.openai.com/examples
 [intro]: https://platform.openai.com/docs/introduction
