@@ -86,6 +86,8 @@ Privacy is a user right, which is why Dispatch gives you the ability to choose w
 
 - ElevenLabs offers nine distinct voices to customise for your unique needs. Try them out [here][elevenlabs-voices] – please note that this will use the 10,000 characters of the free account. Once you identify the voice that suits you best, you can assign it to your Shortcut.
 
+<br/>
+
 ### Resources
 
 #### Apple
