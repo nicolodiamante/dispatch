@@ -1,7 +1,8 @@
 <p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/03e018d2-cbb7-4c0b-94b5-b851e8c332f4" draggable="false" ondragstart="return false;" alt="Dispatch Title" title="Dispatch" /></a></p>
 
 You might be surprised to learn that artificial intelligence (AI) influences your life more than you realise – from reading your emails to navigating driving directions to delivering music. Now, imagine taking this even further with “Wake Me Up” – an interactive shortcut powered by [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], two leading AI technologies for natural language processing and realistic speech recordings. "Wake Me Up" acts as your personal assistant, keeping you on schedule while providing you with a summaries of your daily tasks with a realistic vocal tone.
-<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/578f86de-667c-49ad-a6ce-09ceb6c2abe3" draggable="false" ondragstart="return false;" alt="IMG show ChatGPT conbined with ElevenLabs" title="ChatGPT conbined with ElevenLabs" width="700px" /></a></p>
+
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/8a0ce959-8f30-4ead-8471-43bbc454bd0c" draggable="false" ondragstart="return false;" alt="IMG show ChatGPT conbined with ElevenLabs" title="ChatGPT conbined with ElevenLabs" width="700px" /></a></p>
 
 To successfully combine ChatGPT with ElevenLabs, you need to meet certain requirements and connect the appropriate links. This process is relatively uncomplicated.
 <br/><br/><br/>
@@ -13,7 +14,7 @@ To successfully combine ChatGPT with ElevenLabs, you need to meet certain requir
 To get started, download [Apple Shortcuts app][apple-shortcuts-download] and the  ["Wake Me Up" shortcut][dispatch-shortcut]. You can rename the shortcut to whatever you like, but before running it, make sure you keep reading.
 <br/><br/>
 
-<p align="center"><a href="https://www.icloud.com/shortcuts/010e15b22aec4efba2a051a040574a80"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/c0a4b321-caaf-437e-a3a3-2b921c4ba37c" draggable="false" ondragstart="return false;" alt="Download theShortcut" title="Download Shortcut" width="600px" /></a></p><br/>
+<p align="center"><a href="https://www.icloud.com/shortcuts/955d5158d6924a9d84908036b863ca85"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/9aebaaca-4818-4352-a428-0aa6db95f04f" draggable="false" ondragstart="return false;" alt="Download theShortcut" title="Download Shortcut" width="600px" /></a></p><br/>
 
 ### Create your OpenAI API Key
 
@@ -60,14 +61,25 @@ When you're ready to use the shortcut, simply activate Siri and say "Wake Me Up"
 
 <br/>
 
-## What's new in Dispatch v1.0.5
+## What's new in Dispatch
 
-- Feature updates:
-  - Get a concise yet comprehensive daily summary of your important activities, reminders, and optimal departure times for your workplace.
-  - You now have the option to customise the shortcut, allowing you to listen to your favourite playlist or tune into your favourite daily show at the end of the summary.
-- Customisation options:
-  - The API key can be customised to user preference and stored in a preferred location.
-  - The output summary will be adjusted according to the configuration selected by the user.
+### v1.0.6
+
+Release Highlights:
+
+- Users can now adjust ChatGPT's Temperature, Top P, Frequency Penalty, and Presence Penalty Settings and ElevenLabs' Voice Stability and Similarity. Note: Decimal division is based on device region settings.
+- Added the ability to customise shortcuts to listen to favourite playlists and podcasts after receiving the daily summary.
+
+<br/>
+
+### v1.0.5
+
+Release Highlights:
+
+- Reminder added for work-related departure times.
+- Ability to listen to your favourite podcast at the end of the summary.
+- Customisable API key storage location.
+- Configurable output summary based on user preference.
 
 <br/>
 
@@ -82,9 +94,13 @@ Privacy is a user right, which is why Dispatch gives you the ability to choose w
 
 ## Notes
 
-- Currently, to use GPT-4, you need to [join a waitlist][gpt-4-wailist]. Once you have joined it, you will receive a confirmation email. After that, you will have to wait for an invitation to use the GPT-4 API. If you qualify to use it, you will see the GPT-4 model option for testing in the playground backend. Otherwise, if you do not have the qualifications, you should choose to use the GPT-3.5-Turbo model instead.
+#### GPT-4
 
-- ElevenLabs offers nine distinct voices to customise for your unique needs. Try them out [here][elevenlabs-voices] – please note that this will use the 10,000 characters of the free account. Once you identify the voice that suits you best, you can assign it to your Shortcut.
+Currently, to use GPT-4, you need to [join a waitlist][gpt-4-wailist]. Once you have joined it, you will receive a confirmation email. After that, you will have to wait for an invitation to use the GPT-4 API. If you qualify to use it, you will see the GPT-4 model option for testing in the playground backend. Otherwise, if you do not have the qualifications, you should choose to use the GPT-3.5-Turbo model instead.
+
+#### ElevenLabs
+
+ElevenLabs offers nine distinct voices to customise for your unique needs. Try them out [here][elevenlabs-voices] – please note that this will use the 10,000 characters of the free account. Once you identify the voice that suits you best, you can assign it to your Shortcut.
 
 <br/>
 
@@ -127,7 +143,7 @@ Thank you for taking the time to consider using this shortcut. If you would like
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/010e15b22aec4efba2a051a040574a80
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/955d5158d6924a9d84908036b863ca85
 [gpt-4-wailist]: https://openai.com/waitlist/gpt-4-api
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
