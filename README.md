@@ -14,7 +14,7 @@ To successfully combine ChatGPT with ElevenLabs, you need to meet certain requir
 To get started, download [Apple Shortcuts app][apple-shortcuts-download] and the  ["Wake Me Up" shortcut][dispatch-shortcut]. You can rename the shortcut to whatever you like, but before running it, make sure you keep reading.
 <br/><br/>
 
-<p align="center"><a href="https://www.icloud.com/shortcuts/955d5158d6924a9d84908036b863ca85"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/9aebaaca-4818-4352-a428-0aa6db95f04f" draggable="false" ondragstart="return false;" alt="Download theShortcut" title="Download Shortcut" width="600px" /></a></p><br/>
+<p align="center"><a href="https://www.icloud.com/shortcuts/b40469b4043e4b3094ba4d686385bd52"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/c656132e-3181-4c00-a2d7-4f0070c9ee84" draggable="false" ondragstart="return false;" alt="Download theShortcut" title="Download Shortcut" width="600px" /></a></p><br/>
 
 ### Create your OpenAI API Key
 
@@ -42,6 +42,9 @@ Once you've created an account and went to profile settings there you can obtain
 ## Setting Up
 
 Once you have downloaded the shortcut and copied the API key, it’s time to make it work and see it in action:
+<br/><br/><br/>
+
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/0c22a81b-83fe-4b52-8b30-362883ff728f" draggable="false" ondragstart="return false;" alt="IMG show where paste your API keys" title="Paste your API keys" width="600px" /></a></p><br/><br/>
 
 - Open the Shortcuts app and open the "Wake Me Up" shortcut you downloaded.
 
@@ -50,14 +53,14 @@ Once you have downloaded the shortcut and copied the API key, it’s time to mak
 - The OpenAI API offers a variety of models with different capabilities and pricing plans for various use cases. The default model is GPT-3.5-turbo, though users can choose their own version based on their needs. Note that GPT-4 is currently in a limited beta, and access is only granted upon request. If you're looking for more information, take a look at the subscription plans available [here][open-ai-prices].
 
 - If you subscribe to ElevenLabs for free, you will receive 10,000 characters per month. However, you'll likely hit your limit before the month ends. At that point, you will be automatically switched to Siri's voice, unless you upgrade your subscription to get additional characters. If you're looking for more information, take a look at the subscription plans available [here][elevenlabs-prices].
-<br/><br/><br/>
+<br/>
 
-<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/0c22a81b-83fe-4b52-8b30-362883ff728f" draggable="false" ondragstart="return false;" alt="IMG show where paste your API keys" title="Paste your API keys" width="600px" /></a></p><br/><br/>
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/6919e4ab-d7c9-4cd7-884b-c5cefb9c8e01" draggable="false" ondragstart="return false;" alt="Shortcut Automation" title="Shortcut Automation" width="900px" /></a></p>
 
 When you're ready to use the shortcut, simply activate Siri and say "Wake Me Up", this will generate and read your daily schedules. To make things even easier, set up an automation in the Shortcuts app that triggers each time your wake-up alarm is stopped, so you no longer need to manually activate it.
 <br/><br/><br/>
 
-<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/6919e4ab-d7c9-4cd7-884b-c5cefb9c8e01" draggable="false" ondragstart="return false;" alt="Shortcut Automation" title="Shortcut Automation" width="900px" /></a></p>
+<p align="center"><a href="#"><img src="https://github.com/nicolodiamante/dispatch/assets/48920263/23fb8e6b-351a-497e-8e3d-3eff4f6bc191" draggable="false" ondragstart="return false;" alt="Example Wake Me Up Output" title="Example Wake Me Up Output" width="1000x" /></a></p>
 
 <br/>
 
@@ -143,7 +146,7 @@ Thank you for taking the time to consider using this shortcut. If you would like
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/955d5158d6924a9d84908036b863ca85
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/b40469b4043e4b3094ba4d686385bd52
 [gpt-4-wailist]: https://openai.com/waitlist/gpt-4-api
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
