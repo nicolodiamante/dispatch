@@ -31,7 +31,7 @@ To get started, download [Apple Shortcuts app][apple-shortcuts-download] and the
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/918309a4-4acf-41dd-b304-7c793e9137fd" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/2f584cee-a8f3-4222-b144-2685178acc4f" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -43,7 +43,7 @@ To use ChatGPT's services, you'll first need to obtain the API key. This can be 
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/2e1726d5-0491-4d0e-9957-dc34d5c05ea3" draggable="false" ondragstart="return false; "alt="IMG show how to create new secret key" title="Create new secret key" width="750px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/2e1726d5-0491-4d0e-9957-dc34d5c05ea3" draggable="false" ondragstart="return false; "alt="Create new secret key"" title="Create new secret key" width="750px" />
   </picture>
 </p>
 
@@ -52,7 +52,7 @@ Once you have the [API Key][open-ai-API], integrating ChatGPT's services is a br
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/afe74503-2b89-48a7-bfb5-bdbaecac9580" draggable="false" ondragstart="return false; "alt="IMG show an example of a OpenAI API Key" title="OpenAI API Key" width="750px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/afe74503-2b89-48a7-bfb5-bdbaecac9580" draggable="false" ondragstart="return false; "alt="OpenAI API Key" title="OpenAI API Key" width="750px" />
   </picture>
 </p>
 
@@ -145,7 +145,7 @@ Release Highlights:
 
 - Changed stability and similarity values of the voice to improve the output.
 
-<br/>
+<br>
 
 ### v1.0.6
 
@@ -154,7 +154,7 @@ Release Highlights:
 - Users can now adjust ChatGPT's Temperature, Top P, Frequency Penalty, and Presence Penalty Settings and ElevenLabs' Voice Stability and Similarity.
 - Added the ability to listen to a favourite playlist or podcast after receiving the daily summary.
 
-<br/>
+<br>
 
 ### v1.0.5
 
@@ -165,7 +165,7 @@ Release Highlights:
 - Customisable API key storage location.
 - Configurable output summary based on user preference.
 
-<br/>
+<br>
 
 ## Dispatch Privacy
 
@@ -193,9 +193,9 @@ ElevenLabs offers nine distinct voices to customise for your unique needs. Try t
 
 #### Language & Region (Number Separator)
 
-The decimal point used when setting decimal numbers is determined by a device's region settings; for instance, a decimal may be indicated as "0.1" or "0,1".
+The decimal point used when setting decimal numbers is determined by the region settings of the device; for example, a decimal can be set as "0.1" or "0.1".
 
-<br/>
+<br>
 
 ### Resources
 
@@ -250,7 +250,7 @@ Thank you for taking the time to consider using this shortcut. If you would like
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/2c00335192a84202bc0c79581fb0b5b8
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/97a1f40916a74b0d930d8709186c96f6
 [gpt-4-wailist]: https://openai.com/waitlist/gpt-4-api
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
