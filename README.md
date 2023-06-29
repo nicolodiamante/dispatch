@@ -250,7 +250,7 @@ Thank you for taking the time to consider using this shortcut. If you would like
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/97a1f40916a74b0d930d8709186c96f6
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/e682c75363bd49c588f0d79dbae02faf
 [gpt-4-wailist]: https://openai.com/waitlist/gpt-4-api
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
