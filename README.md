@@ -31,7 +31,7 @@ To get started, download [Apple Shortcuts app][apple-shortcuts-download] and the
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/2f584cee-a8f3-4222-b144-2685178acc4f" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/5ffd51f0-7004-44ad-96ec-b310cac479f9" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -250,7 +250,7 @@ Thank you for taking the time to consider using this shortcut. If you would like
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/e682c75363bd49c588f0d79dbae02faf
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/766c2613dc824218a6b16dee77bd7b7d
 [gpt-4-wailist]: https://openai.com/waitlist/gpt-4-api
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
