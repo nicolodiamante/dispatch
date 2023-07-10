@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-You might be surprised to learn that artificial intelligence (AI) influences your life more than you realise – from reading your emails to navigating driving directions to delivering music. Now, imagine taking this even further with “Wake Me Up” – an interactive shortcut powered by [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], two leading AI technologies for natural language processing and realistic speech recordings. "Wake Me Up" acts as your personal assistant, keeping you on schedule while providing you with a summaries of your daily tasks with a realistic vocal tone.
+Artificial Intelligence (AI) already plays a significant role in numerous aspects of your daily life that you may not be aware of. For instance, AI assists in sorting your emails, providing driving directions, and delivering your favourite music. Now, consider the advancement of this integration with the use of 'Wake Me Up', an interactive shortcut. This service is enhanced by two prominent AI technologies – [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], specialising respectively in natural language processing and realistic speech recordings. 'Wake Me Up' serves as a personal assistant, managing your schedule and offering a summary of your daily tasks through a lifelike vocal tone.
 
 <br><br>
 
@@ -17,7 +17,7 @@ You might be surprised to learn that artificial intelligence (AI) influences you
 
 <br><br>
 
-To successfully combine ChatGPT with ElevenLabs, you need to meet certain requirements and connect the appropriate links. This process is relatively uncomplicated.
+In order to effectively integrate ChatGPT with ElevenLabs, you must fulfil specified prerequisites and establish the necessary connections. Fortunately, this sequence of steps is relatively straightforward.
 
 <br><br>
 
@@ -25,7 +25,7 @@ To successfully combine ChatGPT with ElevenLabs, you need to meet certain requir
 
 ### Get the Shortcut
 
-To get started, download [Apple Shortcuts app][apple-shortcuts-download] and the  ["Wake Me Up" shortcut][dispatch-shortcut]. You can rename the shortcut to whatever you like, but before running it, make sure you keep reading.
+To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the '[Wake Me Up][dispatch-shortcut]' shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
 
 <br><br>
 
@@ -39,7 +39,7 @@ To get started, download [Apple Shortcuts app][apple-shortcuts-download] and the
 
 ### Create your OpenAI API Key
 
-To use ChatGPT's services, you'll first need to obtain the API key. This can be done by generating a new secret key from your OpenAI account. To get started, you can obtain the key by following these steps. First, log in to your [OpenAI account][open-ai-account]. Next, look for the "Create new secret key" option and click on it.
+In order to utilise the services provided by OpenAI, an API key is required. You can procure this key by creating a new secret key through your existing [OpenAI account][open-ai-account]. Commence the process by following these instructions. The initial step requires you to sign in to your OpenAI account. Subsequently, search for the 'Create new secret key' option and select that.
 
 <p align="center">
   <picture>
@@ -47,7 +47,7 @@ To use ChatGPT's services, you'll first need to obtain the API key. This can be 
   </picture>
 </p>
 
-Once you have the [API Key][open-ai-API], integrating ChatGPT's services is a breeze. It's important to note that once you copy the key and close the pop-up, you won't be able to view it again, so it's crucial to keep the key in a secure location.
+After acquiring the [API Key][open-ai-API], integration with SiriGPT's services becomes simple. Please remember, once you have copied the key and closed the pop-up, it will not be visible again. Therefore, it is vital to store the key in a secure place.
 <br><br>
 
 <p align="center">
@@ -60,7 +60,7 @@ Once you have the [API Key][open-ai-API], integrating ChatGPT's services is a br
 
 ### Get ElevenLabs API key
 
-To start using the ElevenLabs API, you must register for an API key on their [website][open-ai-account]. After signing in, click on your profile picture in the upper right corner, then select the 'Profile' option.
+To commence utilising the ElevenLabs API, you are required to sign up for an API key via their official [website][open-ai-account]. Once you have successfully logged in, navigate to the upper right corner and click on your profile picture. Subsequently, choose 'Profile' from the options available."
 
 <br><br>
 
@@ -72,8 +72,7 @@ To start using the ElevenLabs API, you must register for an API key on their [we
 
 <br><br>
 
-Once you've created an account and went to profile settings there you can obtained an API key and start using their text-to-speech service.
-
+Once you've opened the profile settings, you can then obtain an API key, which will allow you to start using their text-to-speech service.
 <br><br>
 
 <p align="center">
@@ -86,7 +85,7 @@ Once you've created an account and went to profile settings there you can obtain
 
 ## Setting Up
 
-Once you have downloaded the shortcut and copied the API key, it’s time to make it work and see it in action:
+After you've successfully downloaded the shortcut and copied the API key, it's time to engage its functionality and see it in action:
 
 <br><br>
 
@@ -98,13 +97,11 @@ Once you have downloaded the shortcut and copied the API key, it’s time to mak
 
 <br><br>
 
-- Open the Shortcuts app and open the "Wake Me Up" shortcut you downloaded.
+- Start by launching the Shortcuts app on your device and select the "Wake Me Up" shortcut that you've previously downloaded.
 
-- Once you launch the "Wake Me Up" shortcut, you will be prompted to set your OpenAI API keys. You have two options for storing your keys: within the shortcut itself (selecting "No") or inside a third-party app called Data Jar (selecting "Yes"). It's important to note that if you opt to store your API keys within the shortcut, you should be extra cautious to keep them secure and not share them with anyone, as this could potentially lead to your API keys being exposed.
+- Upon activating the "Wake Me Up" shortcut, you'll need to enter your OpenAI and EleveLabs API keys. You can choose to store these keys either directly in the shortcut or in the Data Jar app. However, if you choose to store the keys in the shortcut, it's crucial to ensure their privacy. Any inadvertent exposure could compromise your security and potentially result in a breach.
 
-- The OpenAI API offers a variety of models with different capabilities and pricing plans for various use cases. The default model is GPT-3.5-turbo, though users can choose their own version based on their needs. Note that GPT-4 is currently in a limited beta, and access is only granted upon request. If you're looking for more information, take a look at the subscription plans available [here][open-ai-prices].
-
-- If you subscribe to ElevenLabs for free, you will receive 10,000 characters per month. However, you'll likely hit your limit before the month ends. At that point, you will be automatically switched to Siri's voice, unless you upgrade your subscription to get additional characters. If you're looking for more information, take a look at the subscription plans available [here][elevenlabs-prices].
+- Next, proceed with the setup process. Carefully follow every required step to tailor the output prompt and voice to meet your specific preferences for the shortcut. Once completed, 'Wake Me Up' can be put to use immediately.
 
 <br><br>
 
@@ -116,7 +113,7 @@ Once you have downloaded the shortcut and copied the API key, it’s time to mak
 
 <br><br>
 
-When you're ready to use the shortcut, simply activate Siri and say "Wake Me Up", this will generate and read your daily schedules. To make things even easier, set up an automation in the Shortcuts app that triggers each time your wake-up alarm is stopped, so you no longer need to manually activate it.
+When you wish to use the shortcut, just turn on Siri and utter the command, "Wake Me Up". Upon doing this, your daily schedules will be generated and read out to you. For further simplicity, you can establish an automation in the Shortcuts application. This will be triggered each time you silence your wake-up alarm, eliminating the need for you to manually activate it.
 
 <br><br>
 
@@ -185,11 +182,11 @@ Privacy is a user right, which is why Dispatch gives you the ability to choose w
 
 #### GPT-4
 
-Currently, to use GPT-4, you need to [join a waitlist][gpt-4-wailist]. Once you have joined it, you will receive a confirmation email. After that, you will have to wait for an invitation to use the GPT-4 API. If you qualify to use it, you will see the GPT-4 model option for testing in the playground backend. Otherwise, if you do not have the qualifications, you should choose to use the GPT-3.5-Turbo model instead.
+This shortcut is primarily programmed to operate on the GPT-4 model by default. When we compare the operations of GPT-4 model with the GPT-3.5 model, there is little to distinguish between them in terms of performance for relatively straightforward tasks. However, the GPT-4 model outperforms the previous versions, especially when encountering complex reasoning scenarios. If you wish to access the GPT-4-serviced API, it's crucial to note that this privilege is limited to APIs with a history of successful transactions. If an API isn't eligible to run on the GPT-4 model, for instance, if it doesn't meet ChatGPT-4's qualification criteria, it's recommended to default to the GPT-3.5-Turbo model. If you're looking to explore the various subscription packages, you can review the available options [here][open-ai-prices].
 
 #### ElevenLabs
 
-ElevenLabs offers nine distinct voices to customise for your unique needs. Try them out [here][elevenlabs-voices] – please note that this will use the 10,000 characters of the free account. Once you identify the voice that suits you best, you can assign it to your Shortcut.
+Signing up to ElevenLabs gives you a free subscription, which includes 10,000 characters per month. Nonetheless, you may exhaust your limit before the month ends. When this happens, you'll automatically switch to Siri's voice unless you choose to enhance your subscription for additional characters. Also when you try out the ElevenLabs voices to identify the voice that suits you best (try them out [here][elevenlabs-voices]) they will use the 10,000 characters of the free account. For information about upgrade your account, see the subscription options [here][elevenlabs-prices].
 
 #### Language & Region (Number Separator)
 
@@ -222,7 +219,7 @@ The decimal point used when setting decimal numbers is determined by the region 
 
 ### Contribution
 
-Thank you for taking the time to consider using this shortcut. If you would like to contribute to improving Dispatch, your feedback would be appreciated. If you encounter any issues or bugs, please report them on the [issues page][issues].
+Thank you for considering the use of this shortcut. Your collaboration in improving Dispatch would be of immense value and your feedback would be much appreciated. In case you run into any issues or bugs, please report them on the [issues page][issues].
 <br><br>
 
 <p align="center">
@@ -250,8 +247,7 @@ Thank you for taking the time to consider using this shortcut. If you would like
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/044f1a6887fe4d4ab3b4673a002a0803
-[gpt-4-wailist]: https://openai.com/waitlist/gpt-4-api
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/294ddd5605fc4ffd8dccd9bfd34e95cf
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
