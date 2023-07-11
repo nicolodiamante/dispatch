@@ -31,7 +31,7 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/5ffd51f0-7004-44ad-96ec-b310cac479f9" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/b1fc79f8-4a04-4b20-95ce-359a8036a293" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -99,7 +99,7 @@ After you've successfully downloaded the shortcut and copied the API key, it's t
 
 - Start by launching the Shortcuts app on your device and select the "Wake Me Up" shortcut that you've previously downloaded.
 
-- Upon activating the "Wake Me Up" shortcut, you'll need to enter your OpenAI and EleveLabs API keys. You can choose to store these keys either directly in the shortcut or in the Data Jar app. However, if you choose to store the keys in the shortcut, it's crucial to ensure their privacy. Any inadvertent exposure could compromise your security and potentially result in a breach.
+- Upon activating the "Wake Me Up" shortcut, you'll need to enter your OpenAI and ElevenLabs API keys. You can choose to store these keys either directly in the shortcut or in the Data Jar app. However, if you choose to store the keys in the shortcut, it's crucial to ensure their privacy. Any inadvertent exposure could compromise your security and potentially result in a breach.
 
 - Next, proceed with the setup process. Carefully follow every required step to tailor the output prompt and voice to meet your specific preferences for the shortcut. Once completed, 'Wake Me Up' can be put to use immediately.
 
@@ -131,7 +131,7 @@ When you wish to use the shortcut, just turn on Siri and utter the command, "Wak
 
 Release Highlights:
 
-- Users now have the option to choose between two language models offered by ElevenLAbs: monolingual and multilingual. Monolingual will generate standard English language, while the multilingual model will produce lifelike, varied speech in multiple languages including English, German, Polish, Spanish, Italian, French, Portuguese, and Hindi. Note that the multilingual model is still in beta, so translated speech can be unpredictable, especially if the text exceeds 1000 characters.
+- Users now have the option to choose between two language models offered by ElevenLabs: monolingual and multilingual. Monolingual will generate standard English language, while the multilingual model will produce lifelike, varied speech in multiple languages including English, German, Polish, Spanish, Italian, French, Portuguese, and Hindi. Note that the multilingual model is still in beta, so translated speech can be unpredictable, especially if the text exceeds 1000 characters.
 
 - Users can now turn on latency optimisations at some cost of quality. The best possible final latency varies by model. Possible values:
   - 0 default mode (no latency optimisations).
@@ -247,7 +247,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/294ddd5605fc4ffd8dccd9bfd34e95cf
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/cffedd18044f40199727ed8244cc1a5b
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
