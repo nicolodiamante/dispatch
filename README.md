@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/8f74dafd-58c8-4315-aeac-60cae009c2d3" draggable="false" ondragstart="return false;" alt="Dispatch" title="Dispatch" />
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/453f0e1c-2676-4fd9-9c6b-42996dea2547" draggable="false" ondragstart="return false; "alt="Dispatch" title="Dispatch" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/a61804ee-bdf6-469b-ba71-1d39b43ed30c" draggable="false" ondragstart="return false;" alt="Dispatch" title="Dispatch" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/51b93d33-40e8-4190-9e5e-dbb80e627766" draggable="false" ondragstart="return false; "alt="Dispatch" title="Dispatch" />
   </picture>
 </p>
 
-Artificial Intelligence (AI) already plays a significant role in numerous aspects of your daily life that you may not be aware of. For instance, AI assists in sorting your emails, providing driving directions, and delivering your favourite music. Now, consider the advancement of this integration with the use of 'Wake Me Up', an interactive shortcut. This service is enhanced by two prominent AI technologies – [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], specialising respectively in natural language processing and realistic speech recordings. 'Wake Me Up' serves as a personal assistant, managing your schedule and offering a summary of your daily tasks through a lifelike vocal tone.
+Artificial Intelligence (AI) already plays a significant role in numerous aspects of your daily life that you may not be aware of. For instance, AI assists in sorting your emails, providing driving directions, and delivering your favourite music. Now, consider the advancement of this integration with the use of "Wake Me Up", an interactive shortcut. This service is enhanced by two prominent AI technologies – [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], specialising respectively in natural language processing and realistic speech recordings. "Wake Me Up" serves as a personal assistant, managing your schedule and offering a summary of your daily tasks through a lifelike vocal tone.
 
 <br><br>
 
@@ -25,13 +25,13 @@ In order to effectively integrate ChatGPT with ElevenLabs, you must fulfil speci
 
 ### Get the Shortcut
 
-To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the '[Wake Me Up][dispatch-shortcut]' shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
+To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the [Wake Me Up][dispatch-shortcut] shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
 
 <br><br>
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/b1fc79f8-4a04-4b20-95ce-359a8036a293" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/b1f52413-ec04-4adc-ada6-a1a0d2718858" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -60,7 +60,7 @@ After acquiring the [API Key][open-ai-API], integration with SiriGPT's services 
 
 ### Get ElevenLabs API key
 
-To commence utilising the ElevenLabs API, you are required to sign up for an API key via their official [website][open-ai-account]. Once you have successfully logged in, navigate to the upper right corner and click on your profile picture. Subsequently, choose 'Profile' from the options available."
+To commence utilising the ElevenLabs API, you are required to sign up for an API key via their official [website][open-ai-account]. Once you have successfully logged in, navigate to the upper right corner and click on your profile picture. Subsequently, choose Profile from the options available.
 
 <br><br>
 
@@ -113,7 +113,7 @@ After you've successfully downloaded the shortcut and copied the API key, it's t
 
 <br><br>
 
-When you wish to use the shortcut, just turn on Siri and utter the command, "Wake Me Up". Upon doing this, your daily schedules will be generated and read out to you. For further simplicity, you can establish an automation in the Shortcuts application. This will be triggered each time you silence your wake-up alarm, eliminating the need for you to manually activate it.
+When you wish to use the shortcut, just turn on Siri and utter the command "Wake Me Up". Upon doing this, your daily schedules will be generated and read out to you. For further simplicity, you can establish an automation in the Shortcuts application. This will be triggered each time you silence your wake-up alarm, eliminating the need for you to manually activate it.
 
 <br><br>
 
@@ -134,6 +134,7 @@ Release Highlights:
 - Users now have the option to choose between two language models offered by ElevenLabs: monolingual and multilingual. Monolingual will generate standard English language, while the multilingual model will produce lifelike, varied speech in multiple languages including English, German, Polish, Spanish, Italian, French, Portuguese, and Hindi. Note that the multilingual model is still in beta, so translated speech can be unpredictable, especially if the text exceeds 1000 characters.
 
 - Users can now turn on latency optimisations at some cost of quality. The best possible final latency varies by model. Possible values:
+
   - 0 default mode (no latency optimisations).
   - 1 normal latency optimisations (about 50% of possible latency improvement of option 3).
   - 2 strong latency optimisations (about 75% of possible latency improvement of option 3).
@@ -180,15 +181,19 @@ Privacy is a user right, which is why Dispatch gives you the ability to choose w
 
 ## Notes
 
-#### GPT-4
+### GPT-4
 
 This shortcut is primarily programmed to operate on the GPT-4 model by default. When we compare the operations of GPT-4 model with the GPT-3.5 model, there is little to distinguish between them in terms of performance for relatively straightforward tasks. However, the GPT-4 model outperforms the previous versions, especially when encountering complex reasoning scenarios. If you wish to access the GPT-4-serviced API, it's crucial to note that this privilege is limited to APIs with a history of successful transactions. If an API isn't eligible to run on the GPT-4 model, for instance, if it doesn't meet ChatGPT-4's qualification criteria, it's recommended to default to the GPT-3.5-Turbo model. If you're looking to explore the various subscription packages, you can review the available options [here][open-ai-prices].
 
-#### ElevenLabs
+<br>
+
+### ElevenLabs
 
 Signing up to ElevenLabs gives you a free subscription, which includes 10,000 characters per month. Nonetheless, you may exhaust your limit before the month ends. When this happens, you'll automatically switch to Siri's voice unless you choose to enhance your subscription for additional characters. Also when you try out the ElevenLabs voices to identify the voice that suits you best (try them out [here][elevenlabs-voices]) they will use the 10,000 characters of the free account. For information about upgrade your account, see the subscription options [here][elevenlabs-prices].
 
-#### Language & Region (Number Separator)
+<br>
+
+### Language & Region (Number Separator)
 
 The decimal point used when setting decimal numbers is determined by the region settings of the device; for example, a decimal can be set as "0.1" or "0.1".
 
@@ -242,12 +247,13 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 </p>
 
 <!-- Link labels: -->
+
 [open-ai-account]: https://chat.openai.com/auth/login
 [open-ai-API]: https://beta.openai.com/account/api-keys
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/cffedd18044f40199727ed8244cc1a5b
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/b6c61f7ec863447b8b0a2bf468d720d4
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
