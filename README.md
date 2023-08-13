@@ -25,13 +25,13 @@ In order to effectively integrate ChatGPT with ElevenLabs, you must fulfil speci
 
 ### Get the Shortcut
 
-To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the [Wake Me Up][dispatch-shortcut] shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
+To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the "[Wake Me Up][dispatch-shortcut]" shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
 
 <br><br>
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/87aed62e-eae5-45c0-a822-0339f31c6c07" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/d797aa45-c7f9-4fbf-92d3-1cdbfa533269" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -253,7 +253,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/6817b6798f3e4856be01769279e2b2f4
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/05aaf8f7a57341e7939a8ecb11f562bb
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
