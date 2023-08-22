@@ -31,7 +31,7 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/d797aa45-c7f9-4fbf-92d3-1cdbfa533269" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/f5d6b0c7-f575-4877-a34c-d9f7e5902ed0" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -127,6 +127,36 @@ When you wish to use the shortcut, just turn on Siri and utter the command "Wake
 
 ## What's new in Dispatch
 
+### v1.1
+
+Release Highlights:
+
+- Users now have the option to customise the number of tokens used for content generation. It is important to note that the maximum number of tokens allowed for content generation is shared between the prompting and completion sections. However, the actual limit depends on the model used. On average, each token represents about 4 characters in standard English.
+
+- Additional voices have been incorporated into the range of distinctive voices available for customising speech output. It is essential to keep in mind that when conducting tests to choose these supplementary voices, the characters utilised will contribute to the 10,000-character limit imposed on free accounts.
+
+  Here are the available voices:
+
+  - American:\
+    Adam, Antoni, Arnold, Bella, Callum, Clyde, Daniel, Dave, Domi, Elli, Emily, Ethan, Freya, Gigi, Glinda, Grace (American-Southern), Harry, Jeremy (American-Irish), Jessie, Josh, Liam, Matilda, Michael, Nicole, Patrick, Rachel, Ryan, Sam, Serena, Thomas
+
+  - Australian:\
+    Charlie, James
+
+  - British:\
+    Dave (Essex), Dorothy, Joseph, Matthew
+
+  - Irish:\
+    Fin
+
+  - Italian (English):\
+    Giovanni
+
+  - Swedish (English):\
+    Charlotte, Mimi
+
+<br>
+
 ### v1.0.7
 
 Release Highlights:
@@ -189,7 +219,7 @@ This shortcut is primarily programmed to operate on the GPT-4 model by default. 
 
 ### ElevenLabs
 
-Signing up to ElevenLabs gives you a free subscription, which includes 10,000 characters per month. Nonetheless, you may exhaust your limit before the month ends. When this happens, you'll automatically switch to Siri's voice unless you choose to enhance your subscription for additional characters. Also when you try out the ElevenLabs voices to identify the voice that suits you best (try them out [here][elevenlabs-voices]) they will use the 10,000 characters of the free account. For information about upgrade your account, see the subscription options [here][elevenlabs-prices].
+Signing up to ElevenLabs gives you a free subscription, which includes 10,000 characters per month. Nonetheless, you may exhaust your limit before the month ends. When this happens, you'll automatically switch to Siri's voice unless you choose to enhance your subscription for additional characters. Also when you try out the ElevenLabs voices to identify the voice that suits you best they will use the 10,000 characters of the free account. For information about upgrade your account, see the subscription options [here][elevenlabs-prices].
 
 <br>
 
@@ -253,7 +283,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/05aaf8f7a57341e7939a8ecb11f562bb
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/fe2411e19c274886bc7d5492fe4658e2
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
@@ -266,6 +296,5 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [elevenlabs-docs]: https://docs.elevenlabs.io/quickstart
 [elevenlabs-speech-synthesis]: https://beta.elevenlabs.io/speech-synthesis
 [elevenlabs-api-doc]: https://api.elevenlabs.io/docs
-[elevenlabs-voices]: https://api.elevenlabs.io/v1/voices
 [data-jar]: https://datajar.app
 [issues]: https://github.com/nicolodiamante/dispatch/issues
