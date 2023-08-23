@@ -283,7 +283,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/fe2411e19c274886bc7d5492fe4658e2
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/ebe3ed55cf40475c8ccefafe6a89cdbd
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
