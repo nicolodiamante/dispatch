@@ -31,7 +31,7 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/f5d6b0c7-f575-4877-a34c-d9f7e5902ed0" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/ee7bc9ec-e1e8-479c-94f4-02548b35a4ae" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -126,6 +126,14 @@ When you wish to use the shortcut, just turn on Siri and utter the command "Wake
 <br><br>
 
 ## What's new in Dispatch
+
+### v1.1.1
+
+Release Highlights:
+
+- Revised the Shortcut actions to create a more efficient process and enhanced the prompt to provide a more easily understandable output.
+
+<br>
 
 ### v1.1
 
@@ -283,7 +291,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/ebe3ed55cf40475c8ccefafe6a89cdbd
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/77c949dde08f4862a5bbdc855834a608
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
