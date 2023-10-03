@@ -119,13 +119,21 @@ When you wish to use the shortcut, just turn on Siri and utter the command "Wake
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/ff424f85-0e89-45f4-8c2f-c6b3395cb9be" draggable="false" ondragstart="return false;" alt="Wake Me Up Output" title="Wake Me Up Output" width="1000px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/04097a01-e3c7-475f-89e1-cbf4832c7a14" draggable="false" ondragstart="return false;" alt="Wake Me Up Output" title="Wake Me Up Output" width="1000px" />
   </picture>
 </p>
 
 <br><br>
 
 ## What's new in Dispatch
+
+### v1.1.2
+
+Release Highlights:
+
+- Enhanced the output of the prompt to foster more human-like interaction and provide more valuable information.
+
+<br>
 
 ### v1.1.1
 
@@ -291,7 +299,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/9429069776854085b7f3a484f0d23224
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/6e8e4e88be0246b2b33fcc2e911aca3b
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
