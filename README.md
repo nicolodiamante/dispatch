@@ -31,7 +31,7 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/1c83b49c-a0f0-4cc2-8c42-dc9972f9bd98" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/8980b90d-4839-4c80-9006-abd1fcd3d714" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -131,7 +131,9 @@ When you wish to use the shortcut, just turn on Siri and utter the command "Wake
 
 Release Highlights:
 
-- Enhanced the output of the prompt to foster more human-like interaction and provide more valuable information.
+- Enhanced Podcast Selection Logic: Upgraded the podcast selection mechanism in the shortcut, coupled with improvements in the customisation process, resulting in a more intuitive and user-friendly experience for users.
+
+- Prompt Output Enhancement: Improved the prompt's output for more human-like interactions, ensuring users receive more valuable and relevant information.
 
 <br>
 
@@ -139,7 +141,9 @@ Release Highlights:
 
 Release Highlights:
 
-- Revised the Shortcut actions to create a more efficient process and enhanced the prompt to provide a more easily understandable output.
+- Shortcut Actions Revision: Streamlined the Shortcut actions for increased efficiency.
+
+- Prompt Clarity Improvement: Enhanced the prompt for clearer and more understandable output.
 
 <br>
 
@@ -147,29 +151,18 @@ Release Highlights:
 
 Release Highlights:
 
-- Users now have the option to customise the number of tokens used for content generation. It is important to note that the maximum number of tokens allowed for content generation is shared between the prompting and completion sections. However, the actual limit depends on the model used. On average, each token represents about 4 characters in standard English.
+- Token Customisation Option: Introduced the ability for users to customise the number of tokens used in content generation. Note: The maximum token count is shared between the prompt and completion sections, and the limit varies depending on the model. On average, one token equals about 4 characters in standard English.
 
-- Additional voices have been incorporated into the range of distinctive voices available for customising speech output. It is essential to keep in mind that when conducting tests to choose these supplementary voices, the characters utilised will contribute to the 10,000-character limit imposed on free accounts.
+- Expanded Voice Selection: Added new voices for speech output customisation. Remember, testing these voices counts towards the 10,000-character limit on free accounts.
 
-  Here are the available voices:
+  Available Voices:
 
-  - American:\
-    Adam, Antoni, Arnold, Bella, Callum, Clyde, Daniel, Dave, Domi, Elli, Emily, Ethan, Freya, Gigi, Glinda, Grace (American-Southern), Harry, Jeremy (American-Irish), Jessie, Josh, Liam, Matilda, Michael, Nicole, Patrick, Rachel, Ryan, Sam, Serena, Thomas
-
-  - Australian:\
-    Charlie, James
-
-  - British:\
-    Dave (Essex), Dorothy, Joseph, Matthew
-
-  - Irish:\
-    Fin
-
-  - Italian (English):\
-    Giovanni
-
-  - Swedish (English):\
-    Charlotte, Mimi
+  - American: Adam, Antoni, Arnold, Bella, Callum, Clyde, Daniel, Dave, Domi, Elli, Emily, Ethan, Freya, Gigi, Glinda, Grace (American-Southern), Harry, Jeremy (American-Irish), Jessie, Josh, Liam, Matilda, Michael, Nicole, Patrick, Rachel, Ryan, Sam, Serena, Thomas
+  - Australian: Charlie, James
+  - British: Dave (Essex), Dorothy, Joseph, Matthew
+  - Irish: Fin
+  - Italian (English): Giovanni
+  - Swedish (English): Charlotte, Mimi
 
 <br>
 
@@ -177,17 +170,17 @@ Release Highlights:
 
 Release Highlights:
 
-- Users now have the option to choose between two language models offered by ElevenLabs: monolingual and multilingual. Monolingual will generate standard English language, while the multilingual model will produce lifelike, varied speech in multiple languages including English, German, Polish, Spanish, Italian, French, Portuguese, and Hindi. Note that the multilingual model is still in beta, so translated speech can be unpredictable, especially if the text exceeds 1000 characters.
+- Language Model Choices: Users can now choose between Monolingual and Multilingual models from ElevenLabs. The Monolingual model focuses on standard English, while the Multilingual model offers diverse dialogue in several languages. Note: The Multilingual model is in beta and may produce unpredictable results for long texts.
 
-- Users can now turn on latency optimisations at some cost of quality. The best possible final latency varies by model. Possible values:
+- Latency Optimisation Settings: Implemented new settings for controlling latency with potential trade-offs in quality.
 
-  - 0 default mode (no latency optimisations).
-  - 1 normal latency optimisations (about 50% of possible latency improvement of option 3).
-  - 2 strong latency optimisations (about 75% of possible latency improvement of option 3).
-  - 3 max latency optimisations.
-  - 4 max latency optimisations, but also with text normaliser turned off for even more latency savings (best latency, but can mispronounce e.g. numbers and dates).
+  - 0: Default (no optimisations)
+  - 1: Normal latency optimisations
+  - 2: Strong latency optimisations
+  - 3: Maximum latency optimisations
+  - 4: Maximum optimisations with text normaliser off (may affect pronunciation accuracy)
 
-- Changed stability and similarity values of the voice to improve the output.
+- Voice Quality Improvements: Adjusted stability and similarity parameters for better voice output.
 
 <br>
 
@@ -195,8 +188,9 @@ Release Highlights:
 
 Release Highlights:
 
-- Users can now adjust ChatGPT's Temperature, Top P, Frequency Penalty, and Presence Penalty Settings and ElevenLabs' Voice Stability and Similarity.
-- Added the ability to listen to a favourite playlist or podcast after receiving the daily summary.
+- Enhanced Customization Settings: Users can now fine-tune settings like Temperature, Top P, Frequency Penalty, and Presence Penalty, as well as Voice Stability and Similarity.
+
+- Audio Content Options Post-Summary: Added the option to enjoy a favourite playlist or podcast following the daily summary.
 
 <br>
 
@@ -204,10 +198,13 @@ Release Highlights:
 
 Release Highlights:
 
-- Reminder added for work-related departure times.
-- Ability to listen to your favourite podcast at the end of the summary.
-- Customisable API key storage location.
-- Configurable output summary based on user preference.
+- Work Departure Time Reminder: Added a feature to remind users of optimal departure times for work.
+
+- Podcast Listening Post-Summary: Enabled the option to listen to a favourite podcast at the end of the summary.
+
+- API Key Storage Customisation: Users can now choose where to store their API keys.
+
+- Configurable Summary Output: Provided options for users to tailor the output summary to their preferences.
 
 <br>
 
@@ -299,7 +296,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/6e8e4e88be0246b2b33fcc2e911aca3b
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/47191ee83a50455ea291a82328f6cf10
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
