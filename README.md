@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-Artificial Intelligence (AI) already plays a significant role in numerous aspects of your daily life that you may not be aware of. For instance, AI assists in sorting your emails, providing driving directions, and delivering your favourite music. Now, consider the advancement of this integration with the use of "Wake Me Up", an interactive shortcut. This service is enhanced by two prominent AI technologies – [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], specialising respectively in natural language processing and realistic speech recordings. "Wake Me Up" serves as a personal assistant, managing your schedule and offering a summary of your daily tasks through a lifelike vocal tone.
+Artificial Intelligence (AI) already plays a significant role in numerous aspects of your daily life that you may not be aware of. For instance, AI assists in sorting your emails, providing driving directions, and delivering your favourite music. Now, consider the advancement of this integration with the use of Wake Me Up an interactive shortcut. This service is enhanced by two prominent AI technologies – [ChatGPT][chaGPT] and [ElevenLabs][elevenlabs], specialising respectively in natural language processing and realistic speech recordings. Wake Me Up serves as a personal assistant, managing your schedule and offering a summary of your daily tasks through a lifelike vocal tone.
 
 <br><br>
 
@@ -25,13 +25,13 @@ In order to effectively integrate ChatGPT with ElevenLabs, you must fulfil speci
 
 ### Get the Shortcut
 
-To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the "[Wake Me Up][dispatch-shortcut]" shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
+To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the [Wake Me Up shortcut][dispatch-shortcut]. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
 
 <br><br>
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/8980b90d-4839-4c80-9006-abd1fcd3d714" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/9e9d0ed2-203c-4603-b829-dc4bad7ba61a" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
   </picture>
 </p>
 
@@ -97,11 +97,11 @@ After you've successfully downloaded the shortcut and copied the API key, it's t
 
 <br><br>
 
-- Start by launching the Shortcuts app on your device and select the "Wake Me Up" shortcut that you've previously downloaded.
+- Start by launching the Shortcuts app on your device and select the Wake Me Up shortcut that you've previously downloaded.
 
-- Upon activating the "Wake Me Up" shortcut, you'll need to enter your OpenAI and ElevenLabs API keys. You can choose to store these keys either directly in the shortcut or in the Data Jar app. However, if you choose to store the keys in the shortcut, it's crucial to ensure their privacy. Any inadvertent exposure could compromise your security and potentially result in a breach.
+- Upon activating the Wake Me Up shortcut, you'll need to enter your OpenAI and ElevenLabs API keys. You can choose to store these keys either directly in the shortcut or in the Data Jar app. However, if you choose to store the keys in the shortcut, it's crucial to ensure their privacy. Any inadvertent exposure could compromise your security and potentially result in a breach.
 
-- Next, proceed with the setup process. Carefully follow every required step to tailor the output prompt and voice to meet your specific preferences for the shortcut. Once completed, 'Wake Me Up' can be put to use immediately.
+- Next, proceed with the setup process. Carefully follow every required step to tailor the output prompt and voice to meet your specific preferences for the shortcut. Once completed, Wake Me Up can be put to use immediately.
 
 <br><br>
 
@@ -113,7 +113,7 @@ After you've successfully downloaded the shortcut and copied the API key, it's t
 
 <br><br>
 
-When you wish to use the shortcut, just turn on Siri and utter the command "Wake Me Up". Upon doing this, your daily schedules will be generated and read out to you. For further simplicity, you can establish an automation in the Shortcuts application. This will be triggered each time you silence your wake-up alarm, eliminating the need for you to manually activate it.
+When you wish to use the shortcut, just turn on Siri and utter the command Wake Me Up. Upon doing this, your daily schedules will be generated and read out to you. For further simplicity, you can establish an automation in the Shortcuts application. This will be triggered each time you silence your wake-up alarm, eliminating the need for you to manually activate it.
 
 <br><br>
 
@@ -126,6 +126,28 @@ When you wish to use the shortcut, just turn on Siri and utter the command "Wake
 <br><br>
 
 ## What's new in Dispatch
+
+### v1.2
+
+Release Highlights:
+
+- Integrated the ChatGPT-4-Turbo model, combining GPT-4's advanced reasoning with enhanced processing speed for quicker, more efficient responses, also added the ChatGPT-3.5-Turbo-1106 variant, which offers an upgraded performance on the 3.5-Turbo model for scenarios requiring incremental improvements in response quality while maintaining high efficiency and speed.
+
+- Prompt Output Enhancement: Improved the prompt's output for more human-like interactions, ensuring users receive more valuable and relevant information.
+
+- Flexible Speech Output Provider Options: Introduced the option to choose between OpenAI and ElevenLabs for voice output, giving users the flexibility to select their preferred text-to-speech provider.
+
+- ElevenLabs Voice Setting Enhancements: Added the ability to customise voice style and speaker boost feature, providing users greater control and a more enriched audio experience.
+
+- Expanded ElevenLabs Voice Selection: Added new voices for speech output customisation.
+
+  Available Voices:
+
+  - American: American: Bill, Drew, Paul
+  - British: George, Lily
+  - Special: Santa Claus
+
+<br>
 
 ### v1.1.2
 
@@ -147,7 +169,7 @@ Release Highlights:
 
 <br>
 
-### v1.1
+### v1.1.0
 
 Release Highlights:
 
@@ -238,7 +260,7 @@ Signing up to ElevenLabs gives you a free subscription, which includes 10,000 ch
 
 ### Language & Region (Number Separator)
 
-The decimal point used when setting decimal numbers is determined by the region settings of the device; for example, a decimal can be set as "0.1" or "0.1".
+The decimal point used when setting decimal numbers is determined by the region settings of the device; for example, a decimal can be set as 0.1 or 0.1.
 
 <br>
 
@@ -277,9 +299,9 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 </p>
 
 <p align="center">
-  <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/e44ada79-bb9b-4a56-b9dd-40ea9bded38a" draggable="false" ondragstart="return false;" alt="Nicol&#242; Diamante" title="Nicol&#242; Diamante" width="17px" />
-  </picture>
+  <a href="https://nicolodiamante.com" target="_blank">
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/e44ada79-bb9b-4a56-b9dd-40ea9bded38a" draggable="false" ondragstart="return false;" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante" width="17px" />
+  </a>
 </p>
 
 <p align="center">
@@ -296,7 +318,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/47191ee83a50455ea291a82328f6cf10
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/91f5d74033e14d8c95984ff160d7e8c3
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
