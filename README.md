@@ -252,6 +252,16 @@ This shortcut is primarily programmed to operate on the GPT-4 model by default. 
 
 <br>
 
+### OpenAI Text to Speech
+
+The TTS model generally follows the Whisper model in terms of language support. Whisper supports the following languages and performs well despite the current voices being optimised for English:
+
+Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Marathi, Maori, Nepali, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Welsh.
+
+It can generate spoken audio in these languages with the input text in the language of your choice.
+
+<br>
+
 ### ElevenLabs
 
 Signing up to ElevenLabs gives you a free subscription, which includes 10,000 characters per month. Nonetheless, you may exhaust your limit before the month ends. When this happens, you'll automatically switch to Siri's voice unless you choose to enhance your subscription for additional characters. Also when you try out the ElevenLabs voices to identify the voice that suits you best they will use the 10,000 characters of the free account. For information about upgrade your account, see the subscription options [here][elevenlabs-prices].
@@ -318,7 +328,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/91f5d74033e14d8c95984ff160d7e8c3
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/31c570a62aab4e19848fafac5aab9510
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
