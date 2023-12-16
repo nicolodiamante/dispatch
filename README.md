@@ -25,14 +25,17 @@ In order to effectively integrate ChatGPT with ElevenLabs, you must fulfil speci
 
 ### Get the Shortcut
 
-To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the [Wake Me Up shortcut][dispatch-shortcut]. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
+To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the [Wake Me Up][dispatch-shortcut] shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
 
 <br><br>
 
 <p align="center">
-  <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/9e9d0ed2-203c-4603-b829-dc4bad7ba61a" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="600px" />
-  </picture>
+  <a href="https://www.icloud.com/shortcuts/31c570a62aab4e19848fafac5aab9510" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/db15b1d9-5861-4d14-b846-467105d01624" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
+      <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/c4762ced-7108-4e83-a49e-41eed8a0a9d7" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
+    </picture>
+  </a>
 </p>
 
 <br><br>
