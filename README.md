@@ -25,15 +25,15 @@ In order to effectively integrate ChatGPT with ElevenLabs, you must fulfil speci
 
 ### Get the Shortcut
 
-To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the [Wake Me Up][dispatch-shortcut] shortcut. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
+To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app followed by the [Wake Me Up shortcut][dispatch-shortcut]. Feel free to rename the shortcut to a title of your preference. However, before you begin using it, ensure that you continue reading for further instructions.
 
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/31c570a62aab4e19848fafac5aab9510" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/564f563cafac4e1789bd45ac6d928651" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/db15b1d9-5861-4d14-b846-467105d01624" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
-      <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/c4762ced-7108-4e83-a49e-41eed8a0a9d7" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/eb44143a-0d88-4fed-ada5-dc970091b0c4" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
+      <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/ed3022aa-d303-4dae-b2e1-056346aab6d9" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
     </picture>
   </a>
 </p>
@@ -241,7 +241,7 @@ Privacy is a user right, which is why Dispatch gives you the ability to choose w
 
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/b637eaab-892a-470d-a589-359c5cb75a61" draggable="false" ondragstart="return false;" alt="Shortcut Privacy" title="Shortcut Privacy" width="900px" />
+    <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/df3ff297-12e8-4ab9-ab13-48087b56bb52" draggable="false" ondragstart="return false;" alt="Shortcut Privacy" title="Shortcut Privacy" width="900px" />
   </picture>
 </p>
 
@@ -331,7 +331,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/31c570a62aab4e19848fafac5aab9510
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/564f563cafac4e1789bd45ac6d928651
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
