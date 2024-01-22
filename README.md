@@ -30,10 +30,10 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/564f563cafac4e1789bd45ac6d928651" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/b198fcb191a743568c560aa3dd42d2f5" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/eb44143a-0d88-4fed-ada5-dc970091b0c4" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
-      <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/ed3022aa-d303-4dae-b2e1-056346aab6d9" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/8f5c59de-4dbe-4c3f-894e-59db4a60f541" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
+      <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/5fec3ce3-efed-4019-af55-382935518cce" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
     </picture>
   </a>
 </p>
@@ -134,7 +134,7 @@ When you wish to use the shortcut, just turn on Siri and utter the command Wake 
 
 Release Highlights:
 
-- Integrated the ChatGPT-4-Turbo model, combining GPT-4's advanced reasoning with enhanced processing speed for quicker, more efficient responses, also added the ChatGPT-3.5-Turbo-1106 variant, which offers an upgraded performance on the 3.5-Turbo model for scenarios requiring incremental improvements in response quality while maintaining high efficiency and speed.
+- Models Integrations: Integrated the ChatGPT-4-Turbo model, combining GPT-4's advanced reasoning with enhanced processing speed for quicker, more efficient responses, also added the ChatGPT-3.5-Turbo-1106 variant, which offers an upgraded performance on the 3.5-Turbo model for scenarios requiring incremental improvements in response quality while maintaining high efficiency and speed.
 
 - Prompt Output Enhancement: Improved the prompt's output for more human-like interactions, ensuring users receive more valuable and relevant information.
 
@@ -331,7 +331,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/564f563cafac4e1789bd45ac6d928651
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/b198fcb191a743568c560aa3dd42d2f5
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
