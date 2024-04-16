@@ -30,7 +30,7 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/b198fcb191a743568c560aa3dd42d2f5" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/dda7e012645948319f907e1745bd7bc0" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/8f5c59de-4dbe-4c3f-894e-59db4a60f541" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
       <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/5fec3ce3-efed-4019-af55-382935518cce" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
@@ -331,7 +331,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/b198fcb191a743568c560aa3dd42d2f5
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/dda7e012645948319f907e1745bd7bc0
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
