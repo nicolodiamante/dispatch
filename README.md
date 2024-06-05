@@ -30,7 +30,7 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/dda7e012645948319f907e1745bd7bc0" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/d35a5c3bdd6441cc921f29c1fde41f8c" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/8f5c59de-4dbe-4c3f-894e-59db4a60f541" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
       <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/5fec3ce3-efed-4019-af55-382935518cce" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
@@ -129,6 +129,19 @@ When you wish to use the shortcut, just turn on Siri and utter the command Wake 
 <br><br>
 
 ## What's new in Dispatch
+
+### v1.2.1
+
+Release Highlights:
+
+- New Model Integration: This update simplifies the model options from 4 to 3. Users now have three distinct models to choose from: ChatGPT-3.5-Turbo, which now points to ChatGPT-3.5-Turbo-0125; ChatGPT-4 has been upgraded to ChatGPT-4-Turbo; and the newly introduced ChatGPT-4o is now available. This adjustment aims to simplify model selection while maintaining advanced capabilities.
+
+- Voice List Update: The voice list of ElevenLabs has been refreshed, removing the following voices that are no longer available:
+  - AMERICAN: Bella, Elli, Domi, Ryan, Thomas
+  - BRITISH: Matthew
+  - SPECIAL: Santa Claus
+
+<br>
 
 ### v1.2
 
@@ -331,7 +344,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/dda7e012645948319f907e1745bd7bc0
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/d35a5c3bdd6441cc921f29c1fde41f8c
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
