@@ -30,13 +30,17 @@ To initiate, first download the [Apple Shortcuts][apple-shortcuts-download] app 
 <br><br>
 
 <p align="center">
-  <a href="https://www.icloud.com/shortcuts/d35a5c3bdd6441cc921f29c1fde41f8c" target="_blank">
+  <a href="https://www.icloud.com/shortcuts/250b35b992a148d19fb7f09f5ce28d2d" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/8f5c59de-4dbe-4c3f-894e-59db4a60f541" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
-      <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/5fec3ce3-efed-4019-af55-382935518cce" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicolodiamante/dispatch/assets/48920263/d4715aa2-b33c-44af-abe2-4e0dbcdafc72" draggable="false" ondragstart="return false;" alt="Download the Shortcut" title="Download Wake Me Up" />
+      <img src="https://github.com/nicolodiamante/dispatch/assets/48920263/7b29ca12-10ff-4597-be18-82f95868a5cf" draggable="false" ondragstart="return false; "alt="Download the Shortcut" title="Download Wake Me Up" width="600" />
     </picture>
   </a>
 </p>
+
+<br>
+
+> Please make sure to complete the following tasks when transitioning to the new version: Decode the API keys that were previously stored in an encrypted format in the Data Jar. To simplify this process, use the [DecodeMe][decode-key-shortcut] shortcut. Remember to complete this for each key of OpenAI's and ElevenLabs.
 
 <br><br>
 
@@ -130,6 +134,18 @@ When you wish to use the shortcut, just turn on Siri and utter the command Wake 
 
 ## What's new in Dispatch
 
+### v1.2.2
+
+Release Highlights:
+
+- API Key Storage Enhancement: To resolve issues with script readability, API keys will no longer be encrypted in Data Jar. Previously, encryption caused errors that prevented the Shortcut from reading the API key. Storing keys unencrypted will ensure seamless script functionality.
+
+- New Playlist Selection Option: Users can now choose between Apple Music or Spotify playlists. Note: Spotify must be already open for the playlist to play automatically. Currently working on a solution to improve this process.
+
+- ElevenLabs Voice Settings Enhancement: Changed the settings in ElevenLabs voices to reduce exaggerated speech patterns, ensuring a more natural and pleasant listening experience.
+
+<br>
+
 ### v1.2.1
 
 Release Highlights:
@@ -159,9 +175,9 @@ Release Highlights:
 
   Available Voices:
 
-  - American: American: Bill, Drew, Paul
-  - British: George, Lily
-  - Special: Santa Claus
+  - AMERICAN: Bill, Drew, Paul
+  - BRITISH: George, Lily
+  - SPECIAL: Santa Claus
 
 <br>
 
@@ -344,7 +360,7 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [open-ai-models]: https://platform.openai.com/docs/models
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-shortcuts-download]: https://apps.apple.com/us/app/shortcuts/id915249334
-[dispatch-shortcut]: https://www.icloud.com/shortcuts/d35a5c3bdd6441cc921f29c1fde41f8c
+[dispatch-shortcut]: https://www.icloud.com/shortcuts/250b35b992a148d19fb7f09f5ce28d2d
 [open-ai-prices]: https://openai.com/pricing
 [openai-privacy]: https://openai.com/policies/privacy-policy
 [elevenlabs-privacy]: https://beta.elevenlabs.io/privacy
@@ -358,4 +374,5 @@ Thank you for considering the use of this shortcut. Your collaboration in improv
 [elevenlabs-speech-synthesis]: https://beta.elevenlabs.io/speech-synthesis
 [elevenlabs-api-doc]: https://api.elevenlabs.io/docs
 [data-jar]: https://datajar.app
+[decode-key-shortcut]: https://www.icloud.com/shortcuts/0ce3c6d5944a42d4951576620d75f8fe
 [issues]: https://github.com/nicolodiamante/dispatch/issues
